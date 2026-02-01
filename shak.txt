@@ -1,2 +1,2 @@
 
-array is a data structure 
+array is a dta
